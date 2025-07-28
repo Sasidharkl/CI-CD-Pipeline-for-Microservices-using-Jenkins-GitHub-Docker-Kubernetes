@@ -1,0 +1,10 @@
+| Category            | Tools Used                              |
+| ------------------- | --------------------------------------- |
+| CI/CD Orchestration | Jenkins                                 |
+| Version Control     | Git, GitHub                             |
+| Build Tool          | Maven                                   |
+| Containerization    | Docker                                  |
+| Image Registry      | Docker Hub                              |
+| Deployment          | Kubernetes (Minikube / EKS / GKE / AKS) |
+| Notifications       | Slack (via Jenkins plugin)              |
+| Optional Tools      | SonarQube, Trivy, Prometheus, Grafana   |
