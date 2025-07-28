@@ -1,0 +1,9 @@
+├── Jenkinsfile
+├── Dockerfile
+├── kubernetes
+│   ├── deployment.yaml
+│   └── service.yaml
+├── src
+│   └── (your app source code here)
+├── pom.xml (for Java/Maven) or package.json (for Node.js)
+└── README.md
